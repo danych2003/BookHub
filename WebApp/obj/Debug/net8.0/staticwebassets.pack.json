@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\css\\auth.css",
+      "PackagePath": "staticwebassets\\css\\auth.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\fonts\\Gilroy-Light.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\fonts\\Gilroy-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\fonts\\Gilroy-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\.gitkeep",
+      "PackagePath": "staticwebassets\\img\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\authors\\goethe.jpg",
+      "PackagePath": "staticwebassets\\img\\authors\\goethe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\51aV053NRjL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\51aV053NRjL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\61J3Uu4jOLL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\61J3Uu4jOLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\71RXc0OoEwL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\71RXc0OoEwL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\71bZYI9NvpL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\71bZYI9NvpL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\81StSOpmkjL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\81StSOpmkjL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\dead-souls-9781627939171_hr.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\dead-souls-9781627939171_hr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\download.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\faust.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\faust.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\books\\white-nights.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\white-nights.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\read-books-in-english.jpeg",
+      "PackagePath": "staticwebassets\\img\\read-books-in-english.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\BookHub-logo-v2.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\BookHub-logo-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Ellipse-large.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Ellipse-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Ellipse-small.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Ellipse-small.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Ellipse.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Ellipse.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Ellispes.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Ellispes.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Forums.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Forums.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Profile.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\Text.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\Text.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\background-nav.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\background-nav.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\background.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\background.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\book-line-vertical.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\book-line-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\books.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\books.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\cart.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\image.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\line-delimeter-horisontal.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\line-delimeter-horisontal.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\line.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\line.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\logo_main.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo_main.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\rating-checked.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\rating-checked.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\rating-unchecked.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\rating-unchecked.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\search-button.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\search-button.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\vertical-line.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\vertical-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\zoomer.png",
+      "PackagePath": "staticwebassets\\img\\svg\\zoomer.png"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\img\\svg\\zoomer.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\zoomer.svg"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\js\\book-title-size-handler.js",
+      "PackagePath": "staticwebassets\\js\\book-title-size-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\js\\books.js",
+      "PackagePath": "staticwebassets\\js\\books.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\js\\nav\\header\\header-auth.js",
+      "PackagePath": "staticwebassets\\js\\nav\\header\\header-auth.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\js\\nav\\header\\header-unauth.js",
+      "PackagePath": "staticwebassets\\js\\nav\\header\\header-unauth.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

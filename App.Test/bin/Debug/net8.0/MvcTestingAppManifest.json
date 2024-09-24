@@ -1,0 +1,19 @@
+{
+  "App.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.BLL",
+  "App.BLL.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.BLL.DTO",
+  "App.Contracts.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.Contracts.BLL",
+  "App.Contracts.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.Contracts.DAL",
+  "App.DAL.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.DAL.DTO",
+  "App.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.DAL.EF",
+  "App.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.Domain",
+  "App.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\App.DTO",
+  "Base.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.BLL",
+  "Base.Contracts.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.Contracts.BLL",
+  "Base.Contracts.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.Contracts.DAL",
+  "Base.Contracts.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.Contracts.Domain",
+  "Base.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.DAL.EF",
+  "Base.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.Domain",
+  "Base.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Base.Tests",
+  "Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\Helpers",
+  "WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rembl\\Desktop\\WorkShop\\icd0024-23-24-s\\BookHub\\WebApp"
+}
